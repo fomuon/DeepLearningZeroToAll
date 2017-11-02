@@ -10,3 +10,5 @@ Untitled*.ipynb
 .ropeproject
 xlab*
 logs
+/.project
+/.pydevproject
